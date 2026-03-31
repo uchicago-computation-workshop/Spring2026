@@ -4,7 +4,7 @@ Repository for the Spring 2026 Computational Social Science Workshop
 
 Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 142, 1155 E. 60th St
 
-# 04/01
+# 04/02
 [Chenhao Tan](https://computerscience.uchicago.edu/people/chenhao-tan/) is an Associate Professor of Computer Science and Data Science at the University of Chicago, and directs the Chicago Human+AI Lab. He earned his PhD in Computer Science from Cornell University and dual bachelor's degrees in computer science and economics from Tsinghua University. His research focuses on human-centered AI, communication & intelligence, AI & Scientific Discovery, and AI alignment. His work has been covered by major news media outlets, including the New York Times and the Washington Post. He also won a Sloan research fellowship, an NSF CAREER award, an NSF CRII award, a Google research scholar award, research awards from Amazon, IBM, JP Morgan, and Salesforce, a Facebook fellowship, and a Yahoo! Key Scientific Challenges award.
 
 
