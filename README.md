@@ -9,9 +9,11 @@ Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 142, 1155 E. 60th St
 
 
 **Science in the Age of AI**
+
 As AI becomes increasingly capable of following instructions and conducting analyses, I believe that scientists will increasingly play the role of selector and evaluator. In this talk, I will introduce our recent work in building an ecosystem for the future of AI & Scientific Discovery. I will share our work in AI-enabled research evaluation and hypothesis generation. First, I will present ongoing work that formalizes the evaluation of research outcomes beyond the paper itself and use AI to conduct robust evaluation of research evaluation, with a case study on mechanistic interpretability. Second, rather than treating AI hallucinations as obstacles to eliminate, we leverage data and literature to steer AI creativity toward generating effective hypotheses. I will also introduce HypoBench, a dedicated benchmark for evaluating hypothesis generation, which reveals significant room for potential improvement of current AI models.
 
 **Reading List**
+
 - [The Story is Not the Science: Execution-Grounded Evaluation of Mechanistic Interpretability Research](https://arxiv.org/abs/2602.18458)
 - [HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](https://arxiv.org/abs/2504.11524)
 - [Literature Meets Data: A Synergistic Approach to Hypothesis Generation](https://arxiv.org/abs/2410.17309)
