@@ -14,7 +14,7 @@ The rapid adoption of AI across disciplines is reshaping the landscape of scient
 
 **Reading List**
 - [Scientific production in the era of large language models](https://www.science.org/doi/10.1126/science.adw3000)
-- 
+
 
 # 04/02
 [Chenhao Tan](https://computerscience.uchicago.edu/people/chenhao-tan/) is an Associate Professor of Computer Science and Data Science at the University of Chicago, and directs the Chicago Human+AI Lab. He earned his PhD in Computer Science from Cornell University and dual bachelor's degrees in computer science and economics from Tsinghua University. His research focuses on human-centered AI, communication & intelligence, AI & Scientific Discovery, and AI alignment. His work has been covered by major news media outlets, including the New York Times and the Washington Post. He also won a Sloan research fellowship, an NSF CAREER award, an NSF CRII award, a Google research scholar award, research awards from Amazon, IBM, JP Morgan, and Salesforce, a Facebook fellowship, and a Yahoo! Key Scientific Challenges award.
