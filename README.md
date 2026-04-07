@@ -4,6 +4,18 @@ Repository for the Spring 2026 Computational Social Science Workshop
 
 Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 142, 1155 E. 60th St
 
+# 04/09
+[Yian Yin](https://www.yianyin.net/index.html) is an Assistant Professor of Information Science at Cornell University. His research interests lie at the intersection of network science and computational social science, with a particular focus on the science of science. He applies and develops novel computational tools to understand how individual, social, and environmental processes independently and jointly promote (or inhibit) scientific progress and innovation achievements.
+
+
+**Scientific Production in the Era of Large Language Models: Early Evidence from Large-scale Preprint Data**
+
+The rapid adoption of AI across disciplines is reshaping the landscape of scientific production. While both enthusiasm and concern about generative AI in research are rising, systematic empirical evidence on the impact of large language models (LLMs) remains limited. In this talk, I draw on several large-scale analyses to examine how LLM use affects the productivity of individual scientists, reshapes attention to prior work, introduces hallucinated content into the scientific record, and creates new challenges for peer review. Taken together, these findings provide macro-level evidence on the impact of generative AI on science, highlighting the need for institutions, journals, funding agencies, and the broader public to rethink how scientific work should be evaluated in this new era.
+
+**Reading List**
+- [Scientific production in the era of large language models](https://www.science.org/doi/10.1126/science.adw3000)
+- 
+
 # 04/02
 [Chenhao Tan](https://computerscience.uchicago.edu/people/chenhao-tan/) is an Associate Professor of Computer Science and Data Science at the University of Chicago, and directs the Chicago Human+AI Lab. He earned his PhD in Computer Science from Cornell University and dual bachelor's degrees in computer science and economics from Tsinghua University. His research focuses on human-centered AI, communication & intelligence, AI & Scientific Discovery, and AI alignment. His work has been covered by major news media outlets, including the New York Times and the Washington Post. He also won a Sloan research fellowship, an NSF CAREER award, an NSF CRII award, a Google research scholar award, research awards from Amazon, IBM, JP Morgan, and Salesforce, a Facebook fellowship, and a Yahoo! Key Scientific Challenges award.
 
