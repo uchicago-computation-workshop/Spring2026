@@ -9,7 +9,8 @@ Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 142, 1155 E. 60th St
 
 Prof. Tang has a very broad research interest and has published widely, covering international relations, comparative politics, institutional economics, methodology, philosophy of the social sciences, political theory and sociology. He has also developed powerful platforms for complex decision making based on Computational Social Sciences (CSS).
 
-*Polarization versus the Median Voter Theorem: An Agent-based Modeling Simulation*
+**Polarization versus the Median Voter Theorem: An Agent-based Modeling Simulation**
+
 Many Western democracies have experienced a rising tide of political polarization. While existing studies have singled out some key drivers, they have yet to pose a more fundamental question: does the “median voter theorem (MVT)”, a central pillar of classical theories of democracy, always hold? This article argues that the MVT critically rests upon three unrealistic assumptions: “rational” voters, a two-party system, and a single dividing issue among voters and parties. Because political systems in the real world violate the three assumptions and political competition as a dynamic process almost inevitably changes and transforms a political system, MVT premised on the three assumptions may not hold in the real world. We then use agent-based modeling (ABM) simulation to simulate possible outcomes of various political systems. Our ABM exercises show that MVT only holds when there is only a single dividing issue (e.g., income). With more than one dividing issues, political competition almost inevitably drives a two-party system into polarization. In contrast, a three-party system is less prone to political polarization, even with more than one dividing issues, ceteris paribus. Our discussion holds critical implications for understanding and tackling political polarization in both mature and new democracies.
 
 # 04/09
