@@ -4,6 +4,23 @@ Repository for the Spring 2026 Computational Social Science Workshop
 
 Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 142, 1155 E. 60th St
 
+# 04/30
+[Nikhil Garg](https://tech.cornell.edu/people/nikhil-garg/) is an assistant professor of operations research and information engineering at Cornell Tech, the Jacobs Technion-Cornell Institute, and Cornell Engineering. He uses algorithms, data science, and mechanism design approaches to study democracy, markets, and societal systems at large.
+
+Garg has received the NSF CAREER Award, the INFORMS George Dantzig Dissertation Award, an honorable mention for the ACM SIGecom Dissertation Award, and a Forbes 30 under 30 for Science. He has also received several other best paper awards.
+
+He received his M.S. and Ph.D. from Stanford University, as well as a B.S. and B.A. from the University of Texas at Austin. He has spent considerable time collaborating with government agencies and non-profits, including the New York City Department of Parks and Recreation, New York City Public Schools, New York Public Library, and Uber.
+
+In addition, Garg’s work has been featured in publications such as the New York Times, the Washington Post, Science Magazine, and Smithsonian Magazine.
+
+**Recommendations in the NYC High School Match (and other high-stakes settings)**
+Algorithmic systems are now used in high-stakes settings, including to help find jobs, schools, and therapists. Building public interest recommender systems in such settings bring both individual-level (enabling exploration, diversity, data quality) and societal (fairness, capacity constraints, monoculture) challenges. I will talk about an ongoing collaboration with the NYC Public Schools, in which we designed and deployed an informational intervention to help students from underserved middle schools discover high-performing, nearby high schools where they have a strong individual admissions likelihood. However, recommending specific programs brings a methodological challenge, congestion: if many applicants are recommended the same program, affecting admissions likelihoods, then the recommendations may be self-defeating. Time permitting, I'll also overview other directions in tackling such challenges, including (a) algorithmic monoculture and LLM homogeneity, (b) a platform to help discharge patients to long-term care facilities, and (c) feed ranking algorithms on Bluesky for research paper recommendations and an analysis on how scientists communicate on social media.
+
+**Reading List**
+- [Correlated Errors in Large Language Models](https://arxiv.org/abs/2506.07962)
+- [Paper Skygest: Personalized Academic Recommendations on Bluesky](https://arxiv.org/abs/2601.04253)
+
+
 # 04/16
 [Shiping Tang](https://faculty.fudan.edu.cn/tangshiping/zh_CN/index.htm) is one of Asia’s most influential and innovative social scientists. He was elected as one of the three vice-presidents (2025-26) of the International Studies Association (ISA). He is the first Chinese scholar to be elected to this position. He has published five single-authored volumes so far. In 2024, he was honored as one of the three Distinguished Scholars at the Global IR Section (GIRS) at the ISA Convention in San Francisco, along with Barry Buzan and Cristina Rojas. He has published five single-authored volumes so far. His more recent two books include: The Institutional Foundation of Economic Development, (Princeton University Press, 2022) and On Social Evolution: Phenomenon and Paradigm (Routledge, 2020).
 
