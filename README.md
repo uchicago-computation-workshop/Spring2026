@@ -4,6 +4,18 @@ Repository for the Spring 2026 Computational Social Science Workshop
 
 Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 142, 1155 E. 60th St
 
+
+# 05/07
+[Diyi Yang](https://cs.stanford.edu/~diyiy/) is an assistant professor in the Computer Science Department at Stanford University, also affiliated with the Stanford NLP Group, Stanford HCI Group and Stanford Human Centered AI Institute. Her research focuses on human-centered natural language processing and human-AI interaction.  She is a recipient of IEEE “AI 10 to Watch” (2020), Microsoft Research Faculty Fellowship (2021),  NSF CAREER Award (2022), an ONR Young Investigator Award (2023), and a Sloan Research Fellowship (2024).  Her work has received multiple paper awards or nominations at top NLP and HCI conferences. She received her Ph.D. from Carnegie Mellon University, as well as a B.S. from Shanghai Jiao Tong University. 
+
+**The Human Half of Human-AI Interaction**
+
+Recent advances in large language models (LLMs) have transformed human-AI interaction; however, much research has focused on the AI half, scaling models and improving benchmarks, while the human half, how people use, are shaped by, and can be modeled with these systems, remains an open challenge. In this talk, we first examine the rise of AI companions, studying how users form relationships with LLMs and how this shapes their well-being. We then present CARE, an LLM-based training system that upskills novice counselors through simulated patient practice and structured feedback. We further introduce scaling laws for social simulation, characterizing when LLMs can faithfully simulate human behaviors and where they fall short. Together, these projects highlight how studying, designing, and simulating human-AI interaction can guide the development of AI systems that meaningfully support people.
+
+**Reading List**
+- [Can LLM-Simulated Practice and Feedback Upskill Human Counselors? A Randomized Study with 90+ Novice Counselors](https://arxiv.org/abs/2505.02428)
+- [The Rise of AI Companions: How Human-Chatbot Relationships Influence Well-Being](https://arxiv.org/abs/2506.12605)
+
 # 04/30
 [Nikhil Garg](https://tech.cornell.edu/people/nikhil-garg/) is an assistant professor of operations research and information engineering at Cornell Tech, the Jacobs Technion-Cornell Institute, and Cornell Engineering. He uses algorithms, data science, and mechanism design approaches to study democracy, markets, and societal systems at large.
 
