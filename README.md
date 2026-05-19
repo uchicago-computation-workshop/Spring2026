@@ -4,6 +4,15 @@ Repository for the Spring 2026 Computational Social Science Workshop
 
 Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 142, 1155 E. 60th St
 
+# 05/21
+[Amit Goldenberg](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1194484) is an assistant professor in the Negotiation Organization & Markets unit, an affiliate with Harvard’s Department of Psychology, and a member of the Digital Data and Design Institute (D^3). Professor Goldenberg's research focuses on what makes people emotional in social and group contexts, and how such emotions can be changed when they are unhelpful or undesired. He is particularly interested in how technology is used for both emotion detection and regulation. 
+
+In his work Professor Goldenberg tries to integrate between experimental psychology that examines behavior at the individual and collectives levels. To integrate these domains, he employs a multi-method approach that combines behavioral experiments, analysis of data from digital media, computational modeling and AI.
+
+**Exploring the Impact and Limits of AI Emotional support**
+Large language models demonstrate impressive social-emotional abilities. Yet, as we deploy these capabilities and brace for their profound impact on our lives, it is crucial to further understand the nature and limitations of AI's emotional support. In my talk, I aim to explore how LLMs such as GPT-4 compare to humans in providing emotional support and to examine the main reasons behind these perceived differences. I will also discuss how the quality of emotional support is influenced by the awareness that it comes from AI. Finally, I will consider why people may choose to share emotional experiences with humans or with AI, what drives these preferences, and how they impact satisfaction and subsequent interactions. These findings begin to establish a broader understanding of human-AI emotional support.
+
+
 # 05/14
 [Gary King](https://gking.harvard.edu/bio/) is the Albert J. Weatherhead III University Professor at Harvard University – one of 25 with Harvard’s most distinguished faculty title – and Director of the Institute for Quantitative Social Science. King develops and applies empirical methods in many areas of social science, focusing on innovations that span the range from statistical theory to practical application.
 
