@@ -10,6 +10,7 @@ Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 142, 1155 E. 60th St
 In his work Professor Goldenberg tries to integrate between experimental psychology that examines behavior at the individual and collectives levels. To integrate these domains, he employs a multi-method approach that combines behavioral experiments, analysis of data from digital media, computational modeling and AI.
 
 **Exploring the Impact and Limits of AI Emotional support**
+
 Large language models demonstrate impressive social-emotional abilities. Yet, as we deploy these capabilities and brace for their profound impact on our lives, it is crucial to further understand the nature and limitations of AI's emotional support. In my talk, I aim to explore how LLMs such as GPT-4 compare to humans in providing emotional support and to examine the main reasons behind these perceived differences. I will also discuss how the quality of emotional support is influenced by the awareness that it comes from AI. Finally, I will consider why people may choose to share emotional experiences with humans or with AI, what drives these preferences, and how they impact satisfaction and subsequent interactions. These findings begin to establish a broader understanding of human-AI emotional support.
 
 
